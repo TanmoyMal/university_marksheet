@@ -1,0 +1,1 @@
+A GUI application built with Python and Tkinter to generate student marksheets. Users can input student name, subject names, marks, and calculate total, percentage, and pass/fail status dynamically. Ideal for academic use.
